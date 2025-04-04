@@ -6,7 +6,7 @@ set -e
 # Replace these with your actual Docker Hub credentials
 DOCKER_USERNAME="mukundhan20"
 DOCKER_PASSWORD="Mukundhan*+12"
-IMAGE_NAME="$mukundhan20/react-app"
+IMAGE_NAME="react-app"
 TAG="latest"
 
 echo "🔨 Building Docker Image..."
